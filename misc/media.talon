@@ -1,0 +1,7 @@
+media volume up: key(volup)
+media volume down: key(voldown)
+media set volume <number>: user.media_set_volume(number)
+media mute: key(mute)
+media play next: key(next)
+media play previous: key(prev)
+media (play | pause): key(play)
